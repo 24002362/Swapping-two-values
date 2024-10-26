@@ -19,6 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
+## OUTPUT:
+![Alt text](<Screenshot 2024-10-24 145159.png>)
 
 
 ## RESULT:
