@@ -18,13 +18,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+    surya_ball = int(input())
+    vijay_ball = int(input())
+    # Swap using temporary variable (basket)
+    basket = surya_ball
+    surya_ball = vijay_ball
+    vijay_ball = basket
+    print("Swapped values are:",surya_ball,vijay_ball)
+
+
 
 ## OUTPUT:
-![Alt text](<Screenshot 2024-10-24 145159.png>)
-
+![output](Output.png)
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed...
 
 
 
